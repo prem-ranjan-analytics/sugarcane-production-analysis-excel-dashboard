@@ -64,7 +64,8 @@ The dataset used in this project is included in this repository.
 Prem Ranjan  
 
 •⁠  ⁠GitHub: https://github.com/prem-ranjan-analytics
-•⁠  ⁠LinkedIn: https://www.linkedin.com/in/prem-ranjan-6492623b1
+
+•⁠ ⁠LinkedIn: https://www.linkedin.com/in/prem-ranjan-6492623b1
 
 ---
 
